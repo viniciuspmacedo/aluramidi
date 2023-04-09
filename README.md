@@ -10,3 +10,5 @@ O que são os eventos de teclado e como usá-los: *onkeydown* e *onkeyup*;
 * **Adicionar e remover classes:** utilização das funções *add* e *remove* do *classList*;
 * **Objeto *event*:** como declarar e acessar ele através do parâmetro de uma função atrelada a um evento;
 * **Operadores lógicos:** operador de igualdade (==), estritamente igual (===), *not equal* (!=), *or* (||) e *and* (&&).
+
+Para visualizar, acesse o link: <https://aluramidi-beta-three.vercel.app/>
